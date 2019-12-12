@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="timer">Time Left</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="timeLeft">0</string>
+    <string name="Vibration">Vibration</string>
+    <string name="Sound">Sound</string>
+    <string name="Crash">Crash</string>
+</resources>
